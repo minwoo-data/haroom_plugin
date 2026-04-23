@@ -1,0 +1,12 @@
+[submodule "plugins/ddaro"]
+	path = plugins/ddaro
+	url = https://github.com/minwoo-data/ddaro.git
+[submodule "plugins/prism"]
+	path = plugins/prism
+	url = https://github.com/minwoo-data/prism.git
+[submodule "plugins/triad"]
+	path = plugins/triad
+	url = https://github.com/minwoo-data/triad.git
+[submodule "plugins/mangchi"]
+	path = plugins/mangchi
+	url = https://github.com/minwoo-data/mangchi.git
